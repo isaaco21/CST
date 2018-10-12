@@ -1,0 +1,13 @@
+C:\Users\Isaac Mencia\source\repos\CST\SuperAventura\SuperAventura\bin\Debug\SuperAventura.exe.config
+C:\Users\Isaac Mencia\source\repos\CST\SuperAventura\SuperAventura\bin\Debug\SuperAventura.exe
+C:\Users\Isaac Mencia\source\repos\CST\SuperAventura\SuperAventura\bin\Debug\SuperAventura.pdb
+C:\Users\Isaac Mencia\source\repos\CST\SuperAventura\SuperAventura\bin\Debug\Engine.dll
+C:\Users\Isaac Mencia\source\repos\CST\SuperAventura\SuperAventura\bin\Debug\Engine.pdb
+C:\Users\Isaac Mencia\source\repos\CST\SuperAventura\SuperAventura\obj\Debug\SuperAventura.csprojAssemblyReference.cache
+C:\Users\Isaac Mencia\source\repos\CST\SuperAventura\SuperAventura\obj\Debug\SuperAventura.Properties.Resources.resources
+C:\Users\Isaac Mencia\source\repos\CST\SuperAventura\SuperAventura\obj\Debug\SuperAventura.csproj.GenerateResource.cache
+C:\Users\Isaac Mencia\source\repos\CST\SuperAventura\SuperAventura\obj\Debug\SuperAventura.csproj.CoreCompileInputs.cache
+C:\Users\Isaac Mencia\source\repos\CST\SuperAventura\SuperAventura\obj\Debug\SuperAventura.csproj.CopyComplete
+C:\Users\Isaac Mencia\source\repos\CST\SuperAventura\SuperAventura\obj\Debug\SuperAventura.exe
+C:\Users\Isaac Mencia\source\repos\CST\SuperAventura\SuperAventura\obj\Debug\SuperAventura.pdb
+C:\Users\Isaac Mencia\source\repos\CST\SuperAventura\SuperAventura\obj\Debug\SuperAventura.SuperAventura.resources

@@ -1,0 +1,6 @@
+C:\Users\Isaac Mencia\source\repos\CST\SuperAventura\Engine\bin\Debug\Engine.dll
+C:\Users\Isaac Mencia\source\repos\CST\SuperAventura\Engine\bin\Debug\Engine.pdb
+C:\Users\Isaac Mencia\source\repos\CST\SuperAventura\Engine\obj\Debug\Engine.csprojAssemblyReference.cache
+C:\Users\Isaac Mencia\source\repos\CST\SuperAventura\Engine\obj\Debug\Engine.csproj.CoreCompileInputs.cache
+C:\Users\Isaac Mencia\source\repos\CST\SuperAventura\Engine\obj\Debug\Engine.dll
+C:\Users\Isaac Mencia\source\repos\CST\SuperAventura\Engine\obj\Debug\Engine.pdb
